@@ -1,0 +1,25 @@
+_repo: Muse-and-Mint_63500
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Percy, Walter Seymour
+    alias: Percy, Walter S.
+    birthdate: 1867
+    gutenberg_agent_id: '52481'
+    url: http://www.gutenberg.org/2009/agents/52481
+description: ''
+gutenberg_issued: '2020-10-19'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '63500'
+  lccn: '14021739'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PS'
+- !lcsh 'American poetry -- 20th century'
+- GITenberg
+title: Muse and Mint
+url: http://www.gutenberg.org/ebooks/63500
